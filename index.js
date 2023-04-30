@@ -11,7 +11,11 @@ course.duration = 3
 console.log("course duration",course.duration);
 console.log("course fees",course.fees);
 
-function sum(){
-    return sum;
-}
-sum(4,5);
+
+
+let num1 =1 ;
+let num2 = 2 ;
+let sum = num1+num2;
+console.log(sum);
+
+
